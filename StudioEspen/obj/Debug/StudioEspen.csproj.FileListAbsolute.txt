@@ -82,3 +82,4 @@ c:\users\spn\documents\visual studio 2012\Projects\StudioEspen\StudioEspen\bin\z
 c:\users\spn\documents\visual studio 2012\Projects\StudioEspen\StudioEspen\bin\zh-Hant\System.Spatial.resources.dll
 c:\users\spn\documents\visual studio 2012\Projects\StudioEspen\StudioEspen\obj\Debug\StudioEspen.dll
 c:\users\spn\documents\visual studio 2012\Projects\StudioEspen\StudioEspen\obj\Debug\StudioEspen.pdb
+c:\users\spn\documents\visual studio 2012\Projects\StudioEspen\StudioEspen\obj\Debug\StudioEspen.csprojResolveAssemblyReference.cache
